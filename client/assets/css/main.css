@@ -1,0 +1,20 @@
+.authentication .login,.authentication .register,.authentication .reset{
+    width: 100%;
+}
+.chat-list .online.active div.card{
+    border-color: #21aa93;
+}
+.chat-footer .el-col{
+    display: inline-block;
+    width: 100%;
+}
+.chat-list .card .card-body{
+    cursor: pointer;
+}
+.main .chat-body .chat-content .message .message-content {
+    overflow: hidden;
+    overflow-x: auto;
+}
+.chat-list li.active img.avatar{
+    filter:none;
+}

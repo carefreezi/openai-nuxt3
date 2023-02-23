@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --mode dev",
+    "prd": "nuxt dev --mode prd",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.0.0"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "element-plus": "^2.2.30",
+    "weixin-js-sdk": "^1.6.0"
+  }
+}

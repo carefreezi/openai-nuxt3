@@ -27,9 +27,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="signin-img d-none d-lg-block text-center">
-                    <img src="@/assets/images/signin-img-cyan.svg" alt="Sign In Image"/>
-                </div>
+            
             </div>
         </div>
     </div>

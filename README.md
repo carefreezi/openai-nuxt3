@@ -11,8 +11,7 @@
 
 <div align="center">
 
-[官网](https://ai.nsmao.com/) |
-[在线体验](https://ai.nsmao.com/) |
+[奈斯猫](https://www.nsmao.com/) |
 [加群交流](https://qm.qq.com/cgi-bin/qm/qr?k=a2CKPqmQRM3pergs1bbZZTRTJcpMBp5W&jump_from=webapi&authKey=lwhKCSeJgV678lPgWK2oJ58z4zTCorFfXiKp7GWudM50F/Nc+kTLNSTtswV5Sun7)
 
 </div>

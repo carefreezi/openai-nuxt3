@@ -13,7 +13,8 @@
 
 [奈斯猫](https://www.nsmao.com/) |
 [加群交流](https://qm.qq.com/cgi-bin/qm/qr?k=a2CKPqmQRM3pergs1bbZZTRTJcpMBp5W&jump_from=webapi&authKey=lwhKCSeJgV678lPgWK2oJ58z4zTCorFfXiKp7GWudM50F/Nc+kTLNSTtswV5Sun7)
-
+[商业版本购买](https://www.nsmao.com/post/3819)
+[商业版本介绍](https://github.com/carefreezi/nicecat-ai)
 </div>
 
 ### 介绍
